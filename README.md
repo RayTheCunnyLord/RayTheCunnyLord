@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @NeedMeh
+- 👋 Hi, I’m Ray
 - 👀 I’m interested in Anime/manga, games, and do some rest~
 - 🌱 I’m currently learning Javascript and bash shell for now
-- 💞️ I’m looking to collaborate on emm no. I already have best partner and she is Yui:3
+- 💞️ my best partner is Yui:3
 - 📫 How to reach me whatsapp??
 
 <!---
@@ -15,10 +15,9 @@ You can click the Preview link to take a look at your changes.
 
 -CSS basic
 
--CSS layout
+-Javascript
 
-
-•Passed
+•still learning
 
 
 
