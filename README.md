@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 
 -Javascript
 
-•still learning \n
+•still learning <br>
 //start code journey sience 2022//
 
 
