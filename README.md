@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning Javascript and bash shell for now
 - 💞️ my best partner is Yui:3
 - 📫 How to reach me whatsapp??
+- My goal? hmm i have 2 goals
+-  1. Make my own AI GirlFriends(waifu)
+-  2. make a God-tier Guardian bot.
 
 <!---
 NeedMeh/NeedMeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
