@@ -8,11 +8,12 @@ My goal? hmm i have 2 goals <br>
    - Make my own AI GirlFriends(waifu) <br>
    - make a God-tier Guardian bot. <br>
    
-Programing Language that i learned: - Nodejs in 2021 <BR>
-                                    - HTML in 2022 <BR>
-                                    - CSS in 2022 <BR>
-                                    - Javascript in 2023 <BR>
-                                    - ??? <BR>
+Programing Language that i learned: <br> 
+   - Nodejs in 2021 <BR>
+   - HTML in 2022 <BR>
+   - CSS in 2022 <BR>
+   - Javascript in 2023 <BR>
+   - ??? <BR>
 
 • still learning <br>
 //start code journey sience 2021// <br>
