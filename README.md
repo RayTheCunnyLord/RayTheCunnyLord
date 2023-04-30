@@ -1,11 +1,13 @@
-- 👋 Hi, I’m Ray
-- 👀 I’m interested in Anime/manga, games, and do some rest~
-- 🌱 I’m currently learning Javascript and bash shell for now
-- 💞️ my best partner is Yui:3
-- 📫 How to reach me whatsapp??
 - My goal? hmm i have 2 goals
--   1. Make my own AI GirlFriends(waifu)
--   2. make a God-tier Guardian bot.
+   I. Make my own AI GirlFriends(waifu)
+   II. make a God-tier Guardian bot.
+   
+Programing Language i alr learned: I. Nodejs in 2021
+                                   II. HTML in 2022
+                                   III. CSS in 2022
+                                   IV. Javascript in 2023
+                                   V. ???
+                                   
 
 .
 <!---
@@ -13,15 +15,9 @@ NeedMeh/NeedMeh is a ✨ special ✨ repository because its `README.md` (this fi
 You can click the Preview link to take a look at your changes.
 --->
 .
-
--HTMl
-
--CSS basic
-
--Javascript
-
 •still learning <br>
-//start code journey sience 2022//
+//start code journey sience 2021//
+<b>"I love THEM to the best"</b>
 
 
 
