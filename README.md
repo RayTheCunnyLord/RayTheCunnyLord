@@ -15,9 +15,10 @@ Programing Language that i learned: <br>
    - Javascript in 2023 <BR>
    - ??? <BR> <br> <br>
 
-• still learning <br>
+still learning <br>
 //start code journey sience 2021// <br>
-<b>"I love THEM to the best"</b>
+<b>"I love THEM to the best"</b> <br>
+@NeedMe? x @Yui
 
 
 
