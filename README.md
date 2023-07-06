@@ -18,7 +18,6 @@ Programing Language that i learned: <br>
 still learning <br>
 //start code journey sience 2021// <br>
 <b>"I love THEM to the best"</b> <br>
-@NeedMe? x @Yui
 
 
 
